@@ -33,6 +33,8 @@ If you don't want it:
 - Remove the [JaCoCo](https://www.jacoco.org) plugin from the `pom.xml`.
 - Remove the `after_success` target in `.travis.yml`
 - Remove the badge from `README.md`
+![image](https://user-images.githubusercontent.com/64005655/168408926-8a65ce40-bab9-4d38-946c-f94e2c830141.png)
+
 
 # Contributing
 
